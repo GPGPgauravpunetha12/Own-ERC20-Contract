@@ -1,6 +1,9 @@
 # How to Deploy Your Own ERC-20 Token
 
 In this guide, we'll be setting up an ERC-20 token on the Goerli test network - start thinking what name you would like to name your very own ERC-20!
+## Mindmap
+![image](https://github.com/GPGPgauravpunetha12/Own-ERC20-Contract/assets/73377793/d3f3a9e8-4f55-4b59-96d4-d89b189361da)
+
 
 ## Guide Requirements
 
